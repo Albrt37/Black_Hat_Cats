@@ -5,7 +5,7 @@ Check weekly updates of our project in the links below.
 
 ### Meet the Brains
 
-![ ](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiN6put3p3dAhVCL6wKHdqxC48QjRx6BAgBEAU&url=http%3A%2F%2Fcutecatsinhats.com%2Fblack-hat-cat%2F&psig=AOvVaw3aySAGhK3vJD93e-IwOicj&ust=1536026362463518)[Yanrui Wang](mailto:yw2226@cornell.edu) a.k.a. (introduce awesome nickname)
+![ ](http://cutecatsinhats.com/wp-content/uploads/2016/01/black-hat-cat-e1452402930668.png)[Yanrui Wang](mailto:yw2226@cornell.edu) a.k.a. (introduce awesome nickname)
 
 ![ ](https://github.com/Albrt37/Black_Hat_Cats/tree/master/images/black-hat-cat-e1452402930668.png)[Ian Switzer](mailto:ics9@cornell.edu) a.k.a. (introduce awesome nickname) 
  
