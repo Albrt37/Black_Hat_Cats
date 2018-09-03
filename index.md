@@ -5,6 +5,10 @@ Check weekly updates of our project in the links below.
 
 ### Meet the Brains
 
+<img src="https://github.com/Albrt37/Black_Hat_Cats/tree/master/images/a7a84682eab8ff2d927b3d5ba849daa3.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ![ ](https://github.com/Albrt37/Black_Hat_Cats/tree/master/images/a7a84682eab8ff2d927b3d5ba849daa3.jpg)[Yanrui Wang](mailto:yw2226@cornell.edu) a.k.a. (introduce awesome nickname)
 
 ![ ](https://github.com/Albrt37/Black_Hat_Cats/tree/master/images/black-hat-cat-e1452402930668.png)[Ian Switzer](mailto:ics9@cornell.edu) a.k.a. (introduce awesome nickname) 
