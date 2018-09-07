@@ -5,7 +5,7 @@ Check weekly updates of our project in the links below.
 
 ### Meet the Brains
 
-![ ](https://i.kym-cdn.com/photos/images/original/000/470/323/bfc.jpg)[Yanrui Wang](mailto:yw2226@cornell.edu) a.k.a. (introduce awesome nickname)
+![alt text](20180905_214638.jpg)[Yanrui Wang](mailto:yw2226@cornell.edu) a.k.a. (introduce awesome nickname)
 
 ![ ](https://github.com/Albrt37/Black_Hat_Cats/tree/master/images/black-hat-cat-e1452402930668.png)[Ian Switzer](mailto:ics9@cornell.edu) a.k.a. (introduce awesome nickname) 
  
